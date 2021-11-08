@@ -20,6 +20,7 @@ const ProductStyle = styled.div`
         .product-name {
             color: #6ba4ff;
             text-decoration: none;
+            width: fit-content;
         }
         .product-name:hover {
             text-decoration: underline;
